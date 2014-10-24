@@ -71,7 +71,7 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 ## Data selection
 The aim of this project is to prepare data for further analysis. 
 
-The variables of interest are the mean and standard deviation for each measurement. These are namely the mean() and std() measurements, or features. 
+The variables of interest are the mean and standard deviation for each measurement. These are namely the mean() and std() feature measurements. 
 
 The meanFreq() variable is not included because it is a weighted average of frequency components.
 
@@ -87,6 +87,8 @@ The full list of transformations are as follows:
 - Mag: Magnitude
 
 In addition, the parenthesis after mean and std are removed. 
+
+For example, `tBodyAcc-mean()-X` becomes `timeBodyAccelerometer-mean-X`.
 
 
 ## Output
