@@ -91,8 +91,12 @@ In addition, the parenthesis after mean and std are removed.
 
 ## Output
 The final dataset is narrow, containing four columns:
+
 1. subject, which is the number id of the test subject
+
 2. activity, such as walking and laying
+
 3. feature, which is a measurement of mean or standard deviation 
+
 4. mean, which is the mean of the feature measurement for each subject-activity observation
 
