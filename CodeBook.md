@@ -1,4 +1,4 @@
-# Codebook for Getting and Cleaning Data Course Project 
+# Codebook
 
 ## Raw Data
 The original dataset contains 10299 instances with 561 attributes, collected from 30 test subjects using the Samsung Galaxy S smartphone.
